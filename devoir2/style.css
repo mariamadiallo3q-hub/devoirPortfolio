@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    padding: O;
+    background-color: ivory;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+    margin-top: 20px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 20px;
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    background-color: beige;
+    padding: 5px;
+    border-radius: 10px;
+}
+li a:hover{
+    color: beige;
+    background-color: black;
+}
+section h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.apropos img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.apropos{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    margin-top: 20px;
+}
+.apropos p{
+    font-size: 20px;
+}
+.competences{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.item{
+    display: flex;
+    margin-top: 20px;
+}
+.max{
+    width: 200px;
+    height: 20px;
+    background-color: grey;
+    border-radius: 10px;
+}
+.valeur{
+    width: 85%;
+    height: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.valeur1{
+    width: 80%;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 10px;
+}
+.valeur2{
+    width: 75%;
+    height: 20px;
+    background-color: green;
+    border-radius: 10px;
+}
+.valeur12{
+    width: 90%;
+    height: 20px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+.valeur3{
+    width: 75%;
+    height: 20px;
+    background-color: plum;
+    border-radius: 10px;
+}
+.valeur4{
+    width: 70%;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.valeur5{
+    width: 80%;
+    height: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+.valeur15{
+    width: 80%;
+    height: 20px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+}
+.resaux{
+    display: flex;
+    justify-content: center;
+}
+section h3{
+    text-decoration: underline;
+}
+.insta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.snap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.tiktok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.reseaux img{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+}
+fieldset{
+    background-color: beige;
+    border-radius: 10px;
+}
